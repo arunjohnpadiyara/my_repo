@@ -1,0 +1,3 @@
+Developing for webhooks issued by external APIs can often slow down your development cycle by requiring you do some work, like dialing a phone, to trigger the hook request. ngrok allows you to replay any request with a single click dramatically speeding up your iteration cycle. Click the Replay button at the top-right corner of any request on the web inspection UI to replay it.
+
+Replay any request against your tunneled web server with one click
